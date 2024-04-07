@@ -11,7 +11,7 @@ export default function LoginPage() {
           </div>
         </div>
         <LoginForm />
-        <p className="justify-center">
+        <p>
           Use user@nextmail.com and 123456 to see the rest of the site, no Sign
           up function yet!
         </p>
